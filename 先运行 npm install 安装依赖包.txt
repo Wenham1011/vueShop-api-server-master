@@ -1,0 +1,4 @@
+启动后端服务器:
+
+1.shift + 鼠标右键：打开powershell
+2.输入 node .\app.js
